@@ -1,0 +1,215 @@
+{
+  "IssuesProject.dll": {
+    "C:\\Users\\HP\\Desktop\\Testing\\Unit Testing\\IssuesProject\\Issue.cs": {
+      "IssuesProject.Issue": {
+        "System.String IssuesProject.Issue::get_Key()": {
+          "Lines": {
+            "10": 13
+          },
+          "Branches": []
+        },
+        "System.String IssuesProject.Issue::get_Description()": {
+          "Lines": {
+            "11": 13
+          },
+          "Branches": []
+        },
+        "System.DateTime IssuesProject.Issue::get_CreatedAt()": {
+          "Lines": {
+            "12": 39
+          },
+          "Branches": []
+        },
+        "IssuesProject.Priority IssuesProject.Issue::get_Priority()": {
+          "Lines": {
+            "13": 56
+          },
+          "Branches": []
+        },
+        "IssuesProject.Category IssuesProject.Issue::get_Category()": {
+          "Lines": {
+            "14": 44
+          },
+          "Branches": []
+        },
+        "System.String IssuesProject.Issue::GenerateKey()": {
+          "Lines": {
+            "37": 25,
+            "38": 25,
+            "39": 25,
+            "41": 25,
+            "42": 25,
+            "43": 25,
+            "44": 25,
+            "46": 25,
+            "48": 25,
+            "50": 25,
+            "51": 25
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 38,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 38,
+              "Offset": 16,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 38,
+              "Offset": 7,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 19
+            },
+            {
+              "Line": 41,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 10
+            },
+            {
+              "Line": 41,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 8
+            },
+            {
+              "Line": 41,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 4
+            },
+            {
+              "Line": 41,
+              "Offset": 62,
+              "EndOffset": 71,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 4
+            },
+            {
+              "Line": 41,
+              "Offset": 53,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 41,
+              "Offset": 44,
+              "EndOffset": 85,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 15
+            }
+          ]
+        },
+        "System.String IssuesProject.Issue::ToString()": {
+          "Lines": {
+            "54": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": []
+        },
+        "System.Void IssuesProject.Issue::.ctor(System.String,IssuesProject.Priority,IssuesProject.Category,System.Nullable`1<System.DateTime>)": {
+          "Lines": {
+            "17": 15,
+            "18": 15,
+            "19": 15,
+            "21": 15,
+            "22": 2,
+            "24": 13,
+            "26": 13,
+            "28": 13,
+            "30": 13,
+            "32": 13,
+            "34": 13
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 21,
+              "Offset": 16,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 13
+            },
+            {
+              "Line": 30,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 12
+            },
+            {
+              "Line": 30,
+              "Offset": 56,
+              "EndOffset": 67,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Testing\\Unit Testing\\IssuesProject\\Program.cs": {
+      "IssuesProject.Program": {
+        "System.Void IssuesProject.Program::Main(System.String[])": {
+          "Lines": {
+            "6": 0,
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Testing\\Unit Testing\\IssuesProject\\Exceptions\\InvalidIssueDescriptionException.cs": {
+      "IssuesProject.Exceptions.InvalidIssueDescriptionException": {
+        "System.Void IssuesProject.Exceptions.InvalidIssueDescriptionException::.ctor()": {
+          "Lines": {
+            "9": 2,
+            "10": 2,
+            "11": 2
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\IssuesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\IssuesProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\IssuesProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\IssuesProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\IssuesProject.sourcelink.json
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\bin\Debug\net10.0\IssuesProject.exe
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\bin\Debug\net10.0\IssuesProject.deps.json
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\bin\Debug\net10.0\IssuesProject.runtimeconfig.json
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\bin\Debug\net10.0\IssuesProject.dll
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\bin\Debug\net10.0\IssuesProject.pdb
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\IssuesProject.dll
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\refint\IssuesProject.dll
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\IssuesProject.pdb
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\IssuesProject.genruntimeconfig.cache
+C:\Users\HP\Desktop\Testing\Unit Testing\IssuesProject\obj\Debug\net10.0\ref\IssuesProject.dll

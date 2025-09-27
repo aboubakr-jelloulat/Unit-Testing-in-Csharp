@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="IssueConsoleApp/IssueConsoleApp.csproj" Id="7bdb3865-00d9-4c2b-b948-78502dfad754" />
+  <Project Path="IssueProject.Test/IssueProject.Test.csproj" Id="c02a0ef5-6724-4ade-b4d7-7ea8c8492c20" />
+  <Project Path="IssuesProject/IssuesProject.csproj" Id="9679f44a-51f6-4dcb-b2c8-5ed4718cdc4e" />
   <Project Path="PayrollService.Test/PayrollService.Test.csproj" Id="02e83d09-163e-4e6c-b32f-8534ac82e90f" />
   <Project Path="PayrollService/PayrollService.csproj" />
 </Solution>
