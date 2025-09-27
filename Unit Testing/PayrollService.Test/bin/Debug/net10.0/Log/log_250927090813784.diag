@@ -1,0 +1,29 @@
+2025-09-27T09:08:13.8024873+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.7.3+5abdae1f2e07071c4e81b27ac262f241708ec3cf
+2025-09-27T09:08:13.8280456+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-09-27T09:08:13.8310876+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-09-27T09:08:13.8311031+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 09:08:13.680
+2025-09-27T09:08:13.8508708+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 644
+2025-09-27T09:08:13.8510235+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 10.0.0-rc.1.25451.107
+2025-09-27T09:08:13.8510973+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.0-rc.1.25451.107\System.Private.CoreLib.dll
+2025-09-27T09:08:13.8511668+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-09-27T09:08:13.8513823+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService.Test\bin\Debug\net10.0\PayrollService.Test.dll
+2025-09-27T09:08:13.8517385+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService.Test\bin\Debug\net10.0\Log --results-directory C:\Users\HP\Desktop\Testing\Unit Testing\TestResults --client-port 58109'
+2025-09-27T09:08:13.8563909+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-09-27T09:08:13.8999027+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-09-27T09:08:13.9909188+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2025-09-27T09:08:14.5363931+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.0.0' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2025-09-27T09:08:14.5435316+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.0.0+d0213fc4e5 (64-bit .NET 10.0.0-rc.1.25451.107)
+2025-09-27T09:08:14.6423369+00:00 xUnit.net INFORMATION   Discovering: PayrollService.Test
+2025-09-27T09:08:14.7070532+00:00 xUnit.net INFORMATION   Discovered:  PayrollService.Test
+2025-09-27T09:08:14.7473144+00:00 xUnit.net INFORMATION   Starting:    PayrollService.Test
+2025-09-27T09:09:06.3158883+00:00 xUnit.net ERROR     PayrollService.Test.SalarySlipProcessorTest.CalculateTransportationAllowece_EmployeeWorkInOffice_ReturnsTransporationAllowance [FAIL]
+2025-09-27T09:09:06.3172209+00:00 xUnit.net INFORMATION       Assert.Equal() Failure: Values differ
+2025-09-27T09:09:06.3172385+00:00 xUnit.net INFORMATION       Expected: 5
+2025-09-27T09:09:06.3172428+00:00 xUnit.net INFORMATION       Actual:   300
+2025-09-27T09:09:06.3796309+00:00 xUnit.net INFORMATION       Stack Trace:
+2025-09-27T09:09:06.3818609+00:00 xUnit.net INFORMATION         C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService.Test\SalarySlipProcessorTest.cs(88,0): at PayrollService.Test.SalarySlipProcessorTest.CalculateTransportationAllowece_EmployeeWorkInOffice_ReturnsTransporationAllowance()
+2025-09-27T09:09:06.3819161+00:00 xUnit.net INFORMATION            at InvokeStub_SalarySlipProcessorTest.CalculateTransportationAllowece_EmployeeWorkInOffice_ReturnsTransporationAllowance(Object, Object, IntPtr*)
+2025-09-27T09:09:06.3819490+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2025-09-27T09:09:06.4043162+00:00 xUnit.net INFORMATION   Finished:    PayrollService.Test
+2025-09-27T09:09:06.4168673+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2025-09-27T09:09:06.4239260+00:00 xUnit.net INFORMATION    PayrollService.Test  Total: 1, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 51.663s

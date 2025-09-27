@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="PayrollService.Test/PayrollService.Test.csproj" Id="02e83d09-163e-4e6c-b32f-8534ac82e90f" />
   <Project Path="PayrollService/PayrollService.csproj" />
 </Solution>

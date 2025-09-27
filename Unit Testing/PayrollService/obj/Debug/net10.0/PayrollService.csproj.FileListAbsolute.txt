@@ -12,3 +12,4 @@ C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService\obj\Debug\net10.0\refint
 C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService\obj\Debug\net10.0\PayrollService.pdb
 C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService\obj\Debug\net10.0\PayrollService.genruntimeconfig.cache
 C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService\obj\Debug\net10.0\ref\PayrollService.dll
+C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService\obj\Debug\net10.0\PayrollService.sourcelink.json

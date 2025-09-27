@@ -73,6 +73,7 @@ namespace PayrollService
                 return basicSalary * Constants.LowSalaryTaxFactor;
         }
 
+
         public decimal CalculateDangerPay(Employee employee)
         {
 
@@ -89,6 +90,8 @@ namespace PayrollService
 
             return 0m;
         }
+
+
 
         public decimal CalculateHealthInsurance(Employee employee)
         {
@@ -117,7 +120,7 @@ namespace PayrollService
                 throw new ArgumentNullException(nameof(employee));
 
             if (employee.WorkPlatform == WorkPlatform.Office)
-                return Constants.TransportationAllowanceAmount;
+                return  Constants.TransportationAllowanceAmount;
 
             if (employee.WorkPlatform == WorkPlatform.Remote)
                 return 0m;

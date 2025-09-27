@@ -1,0 +1,21 @@
+2025-09-27T09:04:09.3087070+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.7.3+5abdae1f2e07071c4e81b27ac262f241708ec3cf
+2025-09-27T09:04:09.3241737+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-09-27T09:04:09.3257558+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-09-27T09:04:09.3257646+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 09:04:09.270
+2025-09-27T09:04:09.3277498+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 2072
+2025-09-27T09:04:09.3277901+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 10.0.0-rc.1.25451.107
+2025-09-27T09:04:09.3278103+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\10.0.0-rc.1.25451.107\System.Private.CoreLib.dll
+2025-09-27T09:04:09.3278202+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-09-27T09:04:09.3279223+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService.Test\bin\Debug\net10.0\PayrollService.Test.dll
+2025-09-27T09:04:09.3280770+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\HP\Desktop\Testing\Unit Testing\PayrollService.Test\bin\Debug\net10.0\Log --results-directory C:\Users\HP\Desktop\Testing\Unit Testing\TestResults --client-port 58097'
+2025-09-27T09:04:09.3300013+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-09-27T09:04:09.3486830+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-09-27T09:04:09.3662820+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2025-09-27T09:04:09.6472055+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.0.0' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2025-09-27T09:04:09.6521966+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.0.0+d0213fc4e5 (64-bit .NET 10.0.0-rc.1.25451.107)
+2025-09-27T09:04:09.7020148+00:00 xUnit.net INFORMATION   Discovering: PayrollService.Test
+2025-09-27T09:04:09.7523487+00:00 xUnit.net INFORMATION   Discovered:  PayrollService.Test
+2025-09-27T09:04:09.7819051+00:00 xUnit.net INFORMATION   Starting:    PayrollService.Test
+2025-09-27T09:04:09.9201255+00:00 xUnit.net INFORMATION   Finished:    PayrollService.Test
+2025-09-27T09:04:09.9283398+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2025-09-27T09:04:09.9378830+00:00 xUnit.net INFORMATION    PayrollService.Test  Total: 1, Errors: 0, Failed: 0, Skipped: 0, Not Run: 0, Time: 0.143s
